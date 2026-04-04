@@ -79,7 +79,5 @@ flowchart TD
 
 ### Limitações Declaradas
 > - Não recomendo investimentos específicos
-> - Não acessa dados bancários sensíveis
+> - Não acessa dados bancários sensíveis (com senhas e etc)
 > - Não substitui um profissional certificado
-
-[Liste aqui as limitações explícitas do agente]
